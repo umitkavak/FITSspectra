@@ -1,2 +1,2 @@
-# FITSspectra
-Spectral information extraction from a region 
+# FITS spectra
+Spectral information extraction from a region and plot them 
